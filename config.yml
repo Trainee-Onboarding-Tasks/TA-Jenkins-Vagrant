@@ -1,0 +1,6 @@
+jenkins_ip: "192.168.56.120"
+port: 8080
+memory: 8192
+cpu: 4
+box: "bento/ubuntu-24.04"
+disk_size: "30GB"
